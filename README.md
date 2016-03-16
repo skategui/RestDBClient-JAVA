@@ -1,5 +1,6 @@
 # RestDBClient-JAVA
-client example in  Java
+
+RestDB client example in  Java
 
 
 ## OUTPUT
