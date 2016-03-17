@@ -2,6 +2,17 @@
 
 RestDB client example in  Java
 
+The sources are into the folder src/guillaume/agis. Guillaume.agis is actually the name of the package.
+
+## How to launch the program
+
+- Just run ./restdb.sh in your term. The script will compile and execute the program.
+- if you can't run restdb.sh, please verify the right on the file.
+
+You can change the right of the file with this command : 
+``` 
+chmod 744 restdb.sh
+```
 
 ## OUTPUT
 
@@ -16,3 +27,8 @@ result getRequestWithFilter : [{"_id":"56a7aec20075c62a000012bb","description":"
 
 Process finished with exit code 0
 ```
+
+
+
+
+Dev by Guillaume Agis, 2016
