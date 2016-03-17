@@ -62,7 +62,7 @@ public class Main {
      */
     private static String getRequestWithFilter(final RestDBClient client) {
         JSONObject jsonQuery = new JSONObject();
-        jsonQuery.put("count", 0);
+        jsonQuery.put("count", 8);
         String query = "?q=" + jsonQuery.toJSONString();
         String result = client.get(COLLECTION + query);
         System.out.println("result getRequestWithFilter : " + result);
