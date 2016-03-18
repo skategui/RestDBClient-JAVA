@@ -1,5 +1,7 @@
 # RestDBClient-JAVA
 
+##https://restdb.io 
+ 
 RestDB client example in  Java
 
 The sources are into the folder src/guillaume/agis. Guillaume.agis is actually the name of the package.
@@ -13,6 +15,8 @@ You can change the right of the file with this command :
 ``` 
 chmod 744 restdb.sh
 ```
+
+More info here : https://restdb.io/docs
 
 ## OUTPUT
 
@@ -29,6 +33,6 @@ Process finished with exit code 0
 ```
 
 
-
+##  https://restdb.io 
 
 Dev by Guillaume Agis, 2016
